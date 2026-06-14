@@ -117,7 +117,7 @@ O projeto também faz parte do nosso portfólio acadêmico e representa a aplica
 ## 👥 Equipe
 
 * Paulo Eduardo
-* Yahona
+* Yahonan
 * Ysaac
 * Henrique
 
